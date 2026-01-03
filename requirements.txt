@@ -1,0 +1,8 @@
+requests
+sentence-transformers
+langchain
+openai
+pinecone-client
+azure-storage-blob
+google-genai
+psycopg2-binary
